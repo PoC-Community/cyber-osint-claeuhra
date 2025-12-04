@@ -1,0 +1,8 @@
+##
+## EPITECH PROJECT, 2025
+## cyber-osint-claeuhra
+## File description:
+## step1.txt
+##
+
+Ville  : Lyon !
