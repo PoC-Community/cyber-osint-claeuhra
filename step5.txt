@@ -1,0 +1,14 @@
+##
+## EPITECH PROJECT, 2025
+## cyber-osint-claeuhra
+## File description:
+## step5.txt
+##
+
+67.15556631428396, 15.981461988190453
+
+iphone 13 pro
+
+2022-06-12 15:32:10
+
+norvege
