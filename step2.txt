@@ -1,0 +1,8 @@
+##
+## EPITECH PROJECT, 2025
+## cyber-osint-claeuhra
+## File description:
+## step2.txt
+##
+
+48.89105107784381, 2.3832096163491197
