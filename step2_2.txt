@@ -1,0 +1,8 @@
+##
+## EPITECH PROJECT, 2025
+## cyber-osint-claeuhra
+## File description:
+## step2_2.txt
+##
+
+PoC{Y0U_D1D_1T!!}
