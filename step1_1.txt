@@ -1,0 +1,12 @@
+##
+## EPITECH PROJECT, 2025
+## cyber-osint-claeuhra
+## File description:
+## step1_1.txt
+##
+
+OSINT 
+
+using spiderfoot
+
+Marty Makefile
